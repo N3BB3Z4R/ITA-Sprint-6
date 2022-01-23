@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Project Presentation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created for exercise 'Sprint 6: React I' of React Bootcamp at ITAcademy (BarcelonActiva).
 
 ## Available Scripts
 
